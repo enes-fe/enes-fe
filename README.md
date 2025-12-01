@@ -103,7 +103,3 @@ Virtualization, Docker, server management, system monitoring
 </p>
 
 ---
-
-<p align="center">
-  ⭐ If you like my projects, feel free to star the repos!
-</p>
