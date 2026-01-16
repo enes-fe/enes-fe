@@ -13,7 +13,7 @@ Having worked in **Germany (EVAG)** and **Turkey (Kapital Online)**, I combine b
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Analytics**  
 <p>
@@ -37,21 +37,21 @@ Having worked in **Germany (EVAG)** and **Turkey (Kapital Online)**, I combine b
 
 ## Featured Projects
 
-### 🔹 **Adidas US Sales Dashboard**  
+### **Adidas US Sales Dashboard**  
 Used Adidas US Sales (20-21) to make a PowerBI dashboard  
 **Tech:** SQL, Power BI, DAX, Data Modeling  
 🔗 Repo: **[Adidas US Sales Dashboard](https://github.com/enes-fe/adidas-us-sales-power-bi)**
 
 ---
 
-### 🔹 **E-Commerce BI Dashboard (Olist Dataset)**  
+### **E-Commerce BI Dashboard (Olist Dataset)**  
 Analyzed 9 interconnected e-commerce tables to uncover key factors affecting customer satisfaction.  
 **Tech:** SQL, Power BI/Tableau, Data Modeling  
 🔗 Repo: **[E-Commerce-BI-Project](https://github.com/enes-fe/E-Commerce-BI-Project)**
 
 ---
 
-### 🔹 **Netflix EDA – Exploratory Data Analysis**  
+### **Netflix EDA – Exploratory Data Analysis**  
 Explored Netflix's catalog to extract insights on genres, release patterns, and country distributions.  
 **Tech:** Python, Pandas, Matplotlib  
 🔗 Repo: **[Netflix-EDA-Project](https://github.com/enes-fe/Netflix-EDA-Project)**
